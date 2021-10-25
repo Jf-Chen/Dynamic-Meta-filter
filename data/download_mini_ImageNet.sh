@@ -2,15 +2,15 @@
 #!/bin/bash
 
 #-------去掉一些看不懂的----------#
-#. ../utils/parse_yaml.sh
-#. ../utils/gdownload.sh
-#. ../utils/conditional.sh
+. ../utils/parse_yaml.sh
+. ../utils/gdownload.sh
+. ../utils/conditional.sh
 
 
-#eval $(parse_yaml ../config.yml)
-#echo 'this is the data_path you are trying to download data into:'
-#echo $data_path
-#mycwd=$(pwd)
+eval $(parse_yaml ../config.yml)
+echo 'this is the data_path you are trying to download data into:'
+echo $data_path
+mycwd=$(pwd)
 #--------end---------------#
 
 
