@@ -1,1 +1,6 @@
-I am not the creater,just download this repository for research.
+I am not the creater.
+
+I download this repository for research.
+
+Set this repository public thus can easily clone to colab.
+
